@@ -19,9 +19,9 @@ IOS & Android
 Just unzip android Or IOS app and will see leak api or source code for api in applications .
 # POC [IOS]:
 after unzip IOS ipa it will be in this file :
-1- cd /home/user/Desktop/Payload/App.app/public
+1- cd /home/user/Desktop/Payload/AppName.app/public
 
-2- leak source code and sensitive information will be in "main.js" such as :
+2- leak source code and sensitive information will be in "main.js"  such as :
 
 * api path 
 
@@ -30,6 +30,12 @@ after unzip IOS ipa it will be in this file :
 and more ....
 
 it Depends on the application and how it was developed .
+
+## Poc By Nuclei :
+
+i made tamplet for that after you unzip the "ipa" use this command :
+
+echo ~/app_folder | nuclei -t ~/cordova-bug/cordova-data.yaml
 
  ![Script](https://github.com/xcodeOn1/cordova-bug/blob/main/poc.png)
 
