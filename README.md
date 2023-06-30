@@ -15,9 +15,9 @@ all
 # Tested on: 
 IOS & Android 
 ----
-####  information disclosure  :
+# information disclosure  :
 Just unzip android Or IOS app and will see leak api or source code for api in applications .
-#### POC [IOS]:
+# POC [IOS]:
 after unzip IOS ipa it will be in this file :
 1- cd /home/user/Desktop/Payload/App.app/public
 
@@ -30,3 +30,5 @@ after unzip IOS ipa it will be in this file :
 and more ....
 
 it Depends on the application and how it was developed .
+
+
