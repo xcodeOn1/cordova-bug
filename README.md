@@ -6,6 +6,7 @@ information disclosure  in [cordova - mobile]
 30/06/2023
 # Exploit Author: 
 Xcode0x (Mohamed Almarri)
+Twitter: @xcode0x
 # Vendor Homepage: 
 https://cordova.apache.org/
 # Software Link: 
