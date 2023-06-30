@@ -1,0 +1,15 @@
+id: cordova
+info:
+  name: cordova
+  author: xcode0x | Mohamed Almarri | @xcode0x
+  severity: medium
+  description: information disclosure in apps build in cordova
+file:
+  - extensions:
+      - js
+    extractors:
+      - type: regex
+        regex:
+          - "cordova\\.js"
+          - "web\\.js"
+          - "main\\.js"
