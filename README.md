@@ -1,12 +1,19 @@
 # cordova-bug
 
-# Exploit Title: information disclosure  in [cordova - mobile]
-# Date: 30/06/2023
-# Exploit Author: Xcode0x (Mohamed Almarri)
-# Vendor Homepage: https://cordova.apache.org/
-# Software Link: https://cordova.apache.org/#getstarted
-# Version: all
-# Tested on: IOS & Android 
+# Exploit Title: 
+information disclosure  in [cordova - mobile]
+# Date: 
+30/06/2023
+# Exploit Author: 
+Xcode0x (Mohamed Almarri)
+# Vendor Homepage: 
+https://cordova.apache.org/
+# Software Link: 
+https://cordova.apache.org/#getstarted
+# Version: 
+all
+# Tested on: 
+IOS & Android 
 ----
 ####  information disclosure  :
 Just unzip android Or IOS app and will see leak api or source code for api in applications .
