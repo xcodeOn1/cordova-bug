@@ -33,3 +33,4 @@ it Depends on the application and how it was developed .
 
  ![Script](https://github.com/xcodeOn1/cordova-bug/blob/main/poc.png)
 
+ ![Script](https://github.com/xcodeOn1/cordova-bug/blob/main/token.png)
