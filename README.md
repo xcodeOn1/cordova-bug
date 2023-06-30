@@ -33,7 +33,7 @@ it Depends on the application and how it was developed .
 
 ## Poc By Nuclei :
 
-i made tamplet for that after you unzip the "ipa" use this command :
+i made template for that after you unzip the "ipa" use this command :
 
 echo ~/app_folder | nuclei -t ~/cordova-bug/cordova-data.yaml
 
