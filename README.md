@@ -8,6 +8,7 @@ IOS & Android
 Just unzip android Or IOS app and will see leak api or source code for api in applications .
 # POC [IOS]:
 after unzip IOS ipa it will be in this file :
+
 1- cd /home/user/Desktop/Payload/AppName.app/public
 
 2- leak source code and sensitive information will be in "main.js"  such as :
