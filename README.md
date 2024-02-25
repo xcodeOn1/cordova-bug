@@ -1,16 +1,4 @@
-# cordova-bug
-
-# Exploit Title: 
-information disclosure  in [cordova - mobile]
-# Date: 
-30/06/2023
-# Exploit Author: 
-Xcode0x (Mohamed Almarri)
-Twitter: @xcode0x
-# Vendor Homepage: 
-https://cordova.apache.org/
-# Software Link: 
-https://cordova.apache.org/#getstarted
+# cordova information disclosure
 # Version: 
 all
 # Tested on: 
@@ -30,9 +18,10 @@ after unzip IOS ipa it will be in this file :
 
 and more ....
 
-it Depends on the application and how it was developed .
+As a developer, you should be aware when using Cordova. Read this for more information:
+https://cordova.apache.org/docs/en/11.x/guide/appdev/security/index.html#do-not-assume-that-your-source-code-is-secure
 
-## Poc By Nuclei :
+## Nuclei :
 
 i made template for that after you unzip the "ipa" use this command :
 
