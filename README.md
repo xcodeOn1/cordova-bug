@@ -21,7 +21,7 @@ and more ....
 As a developer, you should be aware when using Cordova. Read this for more information:
 https://cordova.apache.org/docs/en/11.x/guide/appdev/security/index.html#do-not-assume-that-your-source-code-is-secure
 
-## Nuclei :
+## Nuclei Template  :
 
 i made template for that after you unzip the "ipa" use this command :
 
