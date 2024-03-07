@@ -1,4 +1,4 @@
-# cordova information disclosure
+# Cordova misconfiguration 
 # Version: 
 all
 # Tested on: 
